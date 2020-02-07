@@ -1,0 +1,44 @@
+body{
+    margin:0px;
+    font-family: "Helvetica", sans-serif;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.sx{
+    background-color: #FFF;
+    color: black;
+    width: 50%;
+    height: 70px;
+    float: left;
+    padding: 38px 0px 0px 0px;
+}
+
+.sx a{
+    color: black;
+    text-decoration: none;
+}
+
+.sx a:hover{
+    text-decoration: none;
+}
+
+.dx{
+    background-color: #000;
+    color: white;
+    width: 50%;
+    height: 70px;
+    float: left;
+    padding: 38px 0px 0px 0px;
+}
+
+.dx a{
+    color: white;
+    text-decoration: none;
+}
+
+.dx a:hover{
+    text-decoration: underline;
+}

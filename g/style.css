@@ -1,0 +1,49 @@
+body{
+    margin:0px;
+    font-family: "Helvetica", sans-serif;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.dx{
+    background-color: #FFF;
+    color: black;
+    width: 50%;
+    float: left;
+    height: 70px;
+    padding: 38px 0px 0px 0px;
+}
+
+.ai2html{
+    float: left;
+    width: 100%;
+}
+
+.dx a{
+    color: black;
+    text-decoration: none;
+}
+
+.dx a:hover{
+    text-decoration: none;
+}
+
+.sx{
+    background-color: #000;
+    color: white;
+    width: 50%;
+    height: 70px;
+    float: left;
+    padding: 38px 0px 0px 0px;
+}
+
+.sx a{
+    color: white;
+    text-decoration: none;
+}
+
+.sx a:hover{
+    text-decoration: underline;
+}
